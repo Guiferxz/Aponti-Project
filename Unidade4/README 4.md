@@ -1,8 +1,8 @@
-# Módulo 03 — Análise de Dados da PRF com SQL
+# Módulo 04 — Análise de Dados da PRF com SQL
 
 ## 📌 Sobre a atividade
 
-O Módulo 03 tem como objetivo aplicar conceitos de **Banco de Dados e SQL** sobre a base de acidentes da **Polícia Rodoviária Federal (PRF) — DATATRAN 2025**.
+A unidade 4 tem como objetivo aplicar conceitos de **Banco de Dados e SQL** sobre a base de acidentes da **Polícia Rodoviária Federal (PRF) — DATATRAN 2025**.
 
 Nesta etapa, os dados são analisados diretamente por meio de consultas SQL, permitindo realizar contagens, agregações, filtros, cálculos de indicadores e análises de relações entre diferentes variáveis.
 
